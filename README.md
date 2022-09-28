@@ -26,12 +26,16 @@ Font: blackletter</p>
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
+            <th>SepRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>15</td>
+            <td>1</td>
+            <td>8</td>
+            <td>1</td>
          </tr>
       </tbody>
    </table>
@@ -60,7 +64,27 @@ Font: blackletter</p>
                   <th>Page</th>
                </tr>
             </thead>
-            <tbody/>
+            <tbody>
+               <tr>
+                  <td>lessing_menschengeschlecht_1780</td>
+                  <td>8</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>15</td>
+                  <td>1</td>
+               </tr>
+            </tbody>
          </table>
       </div>
    </div>
