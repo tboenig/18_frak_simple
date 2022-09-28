@@ -31,7 +31,7 @@ font blackletter</dd>
       <summary>More Information</summary>
       <dl class="more-grid">
          <dt>Transcription Guidelines:</dt>
-         <dd>OCR-D Guidelines https://ocr-d.de/en/gt-guidelines/trans/</dd>
+         <dd>OCR-D Ground Truth Guidelines https://ocr-d.de/en/gt-guidelines/trans/</dd>
          <dt>License:</dt>
          <dd>CC0 1.0</dd>
          <dt>Project:</dt>
