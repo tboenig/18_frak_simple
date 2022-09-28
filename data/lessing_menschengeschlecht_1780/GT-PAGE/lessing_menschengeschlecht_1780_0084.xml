@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>OCR-D</Creator>
+	<Created>2016-09-20T09:10:12</Created>
+	<LastChange>2019-11-20T10:14:36</LastChange></Metadata>
+	<Page imageFilename="lessing_menschengeschlecht_1780_0084.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1267" imageHeight="2155" type="content">
+	<Border>
+	<Coords points="47,307 813,307 813,1684 47,1684"/></Border>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r_1_1" index="0"/>
+	<RegionRefIndexed regionRef="r_2_1" index="1"/>
+	<RegionRefIndexed regionRef="r_2_2" index="2"/>
+	<RegionRefIndexed regionRef="r_2_3" index="3"/>
+	<RegionRefIndexed regionRef="r_2_4" index="4"/>
+	<RegionRefIndexed regionRef="region_1474980941996_32" index="5"/>
+	<RegionRefIndexed regionRef="region_1474980975427_34" index="6"/>
+	<RegionRefIndexed regionRef="region_1474980975427_33" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r_1_1" type="page-number">
+	<Coords points="722,338 766,338 766,373 722,373"/>
+	<TextLine id="tl_1" primaryLanguage="German">
+	<Coords points="723,339 765,339 765,372 723,372"/>
+	<Baseline points="723,374 765,374"/>
+	<Word id="w_w1aab1b1b2b1b1ab1" language="German">
+	<Coords points="723,339 765,339 765,372 723,372"/>
+	<TextEquiv>
+	<Unicode>81</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>81</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>81</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_2_1" type="paragraph">
+	<Coords points="63,426 768,426 768,559 63,559"/>
+	<TextLine id="tl_2" primaryLanguage="German">
+	<Coords points="65,427 767,427 767,474 65,474"/>
+	<Baseline points="65,469 767,469"/>
+	<Word id="w_w1aab1b3b2b1b1ab1" language="German">
+	<Coords points="65,433 108,433 108,464 65,464"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b1b1ab9" language="German">
+	<Coords points="123,434 179,434 179,464 123,464"/>
+	<TextEquiv>
+	<Unicode>uns</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b1b1ac17" language="German">
+	<Coords points="194,430 268,430 268,472 194,472"/>
+	<TextEquiv>
+	<Unicode>ſelbſt</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b1b1ac31" language="German">
+	<Coords points="284,433 312,433 312,465 284,465"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b1b1ac37" language="German">
+	<Coords points="329,433 380,433 380,464 329,464"/>
+	<TextEquiv>
+	<Unicode>den</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b1b1ac45" language="German">
+	<Coords points="407,429 692,429 692,474 407,474"/>
+	<TextEquiv>
+	<Unicode>Elementarbuͤchern</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b1b1ac79" language="German">
+	<Coords points="714,436 767,436 767,468 714,468"/>
+	<TextEquiv>
+	<Unicode>des</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>die uns ſelbſt in den Elementarbuͤchern des</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_3" primaryLanguage="German">
+	<Coords points="64,512 593,512 593,558 64,558"/>
+	<Baseline points="64,550 593,550"/>
+	<Word id="w_w1aab1b3b2b1b3ab1" language="German">
+	<Coords points="64,514 164,514 164,547 64,547"/>
+	<TextEquiv>
+	<Unicode>Neuen</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b1b3ac13" language="German">
+	<Coords points="179,516 303,516 303,548 179,548"/>
+	<TextEquiv>
+	<Unicode>Bundes</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b1b3ac27" language="German">
+	<Coords points="318,514 497,514 497,557 318,557"/>
+	<TextEquiv>
+	<Unicode>verſprochen</Unicode></TextEquiv></Word>
+	<Word id="word_1478540187009_626" language="German">
+	<Coords points="512,515 593,515 593,548 512,548"/>
+	<TextEquiv>
+	<Unicode>wird.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Neuen Bundes verſprochen wird.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>die uns ſelbſt in den Elementarbuͤchern des
+Neuen Bundes verſprochen wird.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_2_2" type="heading">
+	<Coords points="347,641 474,641 474,690 347,690"/>
+	<TextLine id="tl_4" primaryLanguage="German">
+	<Coords points="348,642 473,642 473,689 348,689"/>
+	<Baseline points="348,690 473,690"/>
+	<Word id="word_1478540195008_628" language="German">
+	<Coords points="348,642 377,642 377,686 348,686"/>
+	<TextEquiv>
+	<Unicode>§.</Unicode></TextEquiv></Word>
+	<Word id="word_1478540198872_630" language="German">
+	<Coords points="415,650 432,650 432,651 459,651 459,652 473,652 473,689 441,689 441,688 436,688 436,687 432,687 432,686 428,686 428,685 423,685 423,684 419,684 419,683 415,683"/>
+	<TextEquiv>
+	<Unicode>87.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>§. 87.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>§. 87.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_2_3" type="paragraph">
+	<Coords points="54,756 762,756 762,1211 54,1211"/>
+	<TextLine id="tl_5" primaryLanguage="German">
+	<Coords points="110,757 761,757 761,803 110,803"/>
+	<Baseline points="110,796 761,796"/>
+	<Word id="word_1478540244347_632" language="German">
+	<Coords points="110,760 271,760 271,801 110,801"/>
+	<TextEquiv>
+	<Unicode>Vielleicht,</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5b1ac25" language="German">
+	<Coords points="306,759 361,759 361,801 306,801"/>
+	<TextEquiv>
+	<Unicode>daß</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5b1ac33" language="German">
+	<Coords points="390,759 467,759 467,801 390,801"/>
+	<TextEquiv>
+	<Unicode>ſelbſt</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5b1ac47" language="German">
+	<Coords points="488,760 597,760 597,801 488,801"/>
+	<TextEquiv>
+	<Unicode>gewiſſe</Unicode></TextEquiv></Word>
+	<Word id="word_1478540304090_640" language="German">
+	<Coords points="620,762 761,762 761,802 620,802"/>
+	<TextEquiv>
+	<Unicode>Schwaͤr-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Vielleicht, daß ſelbſt gewiſſe Schwaͤr-</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_6" primaryLanguage="German">
+	<Coords points="60,840 760,840 760,883 60,883"/>
+	<Baseline points="60,877 760,877"/>
+	<Word id="w_w1aab1b3b2b5b3ab1" language="German">
+	<Coords points="60,847 123,847 123,873 60,873"/>
+	<TextEquiv>
+	<Unicode>mer</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5b3ac11" language="German">
+	<Coords points="135,844 186,844 186,874 135,874"/>
+	<TextEquiv>
+	<Unicode>des</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5b3ac19" language="German">
+	<Coords points="204,842 384,842 384,881 204,881"/>
+	<TextEquiv>
+	<Unicode>dreyzehnten</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5b3ac43" language="German">
+	<Coords points="400,844 457,844 457,874 400,874"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5b3ac51" language="German">
+	<Coords points="474,842 646,842 646,882 474,882"/>
+	<TextEquiv>
+	<Unicode>vierzehnten</Unicode></TextEquiv></Word>
+	<Word id="word_1478540307707_642" language="German">
+	<Coords points="667,844 759,844 759,882 667,882"/>
+	<TextEquiv>
+	<Unicode>Jahr-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>mer des dreyzehnten und vierzehnten Jahr-</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_7" primaryLanguage="German">
+	<Coords points="58,921 758,921 758,966 58,966"/>
+	<Baseline points="58,959 758,959"/>
+	<Word id="w_w1aab1b3b2b5b5ab1" language="German">
+	<Coords points="58,922 191,922 191,961 58,961"/>
+	<TextEquiv>
+	<Unicode>hunderts</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5b5ac19" language="German">
+	<Coords points="209,924 287,924 287,956 209,956"/>
+	<TextEquiv>
+	<Unicode>einen</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5b5ac31" language="German">
+	<Coords points="302,922 411,922 411,961 302,961"/>
+	<TextEquiv>
+	<Unicode>Strahl</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5b5ac45" language="German">
+	<Coords points="431,924 517,924 517,965 431,965"/>
+	<TextEquiv>
+	<Unicode>dieſes</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5b5ac59" language="German">
+	<Coords points="540,932 629,932 629,956 540,956"/>
+	<TextEquiv>
+	<Unicode>neuen</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5b5ac71" language="German">
+	<Coords points="652,925 758,925 758,965 652,965"/>
+	<TextEquiv>
+	<Unicode>ewigen</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>hunderts einen Strahl dieſes neuen ewigen</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_8" primaryLanguage="German">
+	<Coords points="58,1001 760,1001 760,1047 58,1047"/>
+	<Baseline points="58,1041 760,1041"/>
+	<Word id="w_w1aab1b3b2b5b7ab1" language="German">
+	<Coords points="58,1002 269,1002 269,1044 58,1044"/>
+	<TextEquiv>
+	<Unicode>Evangeliums</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5b7ac25" language="German">
+	<Coords points="284,1002 475,1002 475,1045 284,1045"/>
+	<TextEquiv>
+	<Unicode>aufgefangen</Unicode></TextEquiv></Word>
+	<Word id="word_1478540265106_634" language="German">
+	<Coords points="492,1004 605,1004 605,1045 492,1045"/>
+	<TextEquiv>
+	<Unicode>hatten;</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5b7ac65" language="German">
+	<Coords points="632,1008 689,1008 689,1038 632,1038"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5b7ac73" language="German">
+	<Coords points="705,1016 760,1016 760,1039 705,1039"/>
+	<TextEquiv>
+	<Unicode>nur</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Evangeliums aufgefangen hatten; und nur</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_9" primaryLanguage="German">
+	<Coords points="56,1083 755,1083 755,1129 56,1129"/>
+	<Baseline points="56,1122 755,1122"/>
+	<Word id="w_w1aab1b3b2b5b9ab1" language="German">
+	<Coords points="56,1086 157,1086 157,1117 56,1117"/>
+	<TextEquiv>
+	<Unicode>darinn</Unicode></TextEquiv></Word>
+	<Word id="word_1478540273712_636" language="German">
+	<Coords points="173,1087 275,1087 275,1126 173,1126"/>
+	<TextEquiv>
+	<Unicode>irrten,</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5b9ac31" language="German">
+	<Coords points="302,1087 356,1087 356,1127 302,1127"/>
+	<TextEquiv>
+	<Unicode>daß</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5b9ac39" language="German">
+	<Coords points="372,1084 407,1084 407,1126 372,1126"/>
+	<TextEquiv>
+	<Unicode>ſie</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5b9ac47" language="German">
+	<Coords points="423,1089 475,1089 475,1119 423,1119"/>
+	<TextEquiv>
+	<Unicode>den</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5b9ac55" language="German">
+	<Coords points="490,1086 640,1086 640,1129 490,1129"/>
+	<TextEquiv>
+	<Unicode>Ausbruch</Unicode></TextEquiv></Word>
+	<Word id="word_1478540312155_644" language="German">
+	<Coords points="664,1087 755,1087 755,1128 664,1128"/>
+	<TextEquiv>
+	<Unicode>deſſel-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>darinn irrten, daß ſie den Ausbruch deſſel-</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_10" primaryLanguage="German">
+	<Coords points="55,1164 460,1164 460,1210 55,1210"/>
+	<Baseline points="55,1204 460,1204"/>
+	<Word id="w_w1aab1b3b2b5c11ab1" language="German">
+	<Coords points="55,1166 108,1166 108,1199 55,1199"/>
+	<TextEquiv>
+	<Unicode>ben</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5c11ab9" language="German">
+	<Coords points="124,1167 151,1167 151,1208 124,1208"/>
+	<TextEquiv>
+	<Unicode>so</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b5c11ac15" language="German">
+	<Coords points="167,1168 239,1168 239,1204 167,1204"/>
+	<TextEquiv>
+	<Unicode>nahe</Unicode></TextEquiv></Word>
+	<Word id="word_1478540284046_638" language="German">
+	<Coords points="253,1165 460,1165 460,1207 253,1207"/>
+	<TextEquiv>
+	<Unicode>verkuͤndigten.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ben so nahe verkuͤndigten.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Vielleicht, daß ſelbſt gewiſſe Schwaͤr-
+mer des dreyzehnten und vierzehnten Jahr-
+hunderts einen Strahl dieſes neuen ewigen
+Evangeliums aufgefangen hatten; und nur
+darinn irrten, daß ſie den Ausbruch deſſel-
+ben so nahe verkuͤndigten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_2_4" type="heading">
+	<Coords points="339,1299 466,1299 466,1338 339,1338"/>
+	<TextLine id="tl_11" primaryLanguage="German">
+	<Coords points="340,1300 465,1300 465,1337 340,1337"/>
+	<Baseline points="340,1338 465,1338"/>
+	<Word id="word_1478540328164_646" language="German">
+	<Coords points="340,1300 369,1300 369,1336 340,1336"/>
+	<TextEquiv>
+	<Unicode>§.</Unicode></TextEquiv></Word>
+	<Word id="word_1478540331913_648" language="German">
+	<Coords points="406,1302 450,1302 450,1303 451,1303 451,1305 452,1305 452,1306 453,1306 453,1308 454,1308 454,1309 455,1309 455,1311 456,1311 456,1312 457,1312 457,1314 458,1314 458,1315 459,1315 459,1317 460,1317 460,1318 461,1318 461,1320 462,1320 462,1321 463,1321 463,1322 464,1322 464,1332 459,1332 459,1333 455,1333 455,1334 451,1334 451,1335 450,1335 450,1336 406,1336"/>
+	<TextEquiv>
+	<Unicode>88.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>§. 88.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>§. 88.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_1474980941996_32" type="paragraph">
+	<Coords points="755,1542 53,1542 53,1407 755,1407"/>
+	<TextLine id="tl_12" primaryLanguage="German">
+	<Coords points="102,1408 754,1408 754,1461 102,1461"/>
+	<Baseline points="102,1450 754,1450"/>
+	<Word id="w_w1aab1b3b2b9b1ab1" language="German">
+	<Coords points="102,1410 244,1410 244,1450 102,1450"/>
+	<TextEquiv>
+	<Unicode>Vielleicht</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b9b1ac23" language="German">
+	<Coords points="270,1419 331,1419 331,1445 270,1445"/>
+	<TextEquiv>
+	<Unicode>war</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b9b1ac31" language="German">
+	<Coords points="359,1412 401,1412 401,1451 359,1451"/>
+	<TextEquiv>
+	<Unicode>ihr</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b9b1b1b1" language="German">
+	<Coords points="428,1410 630,1410 630,1460 428,1460"/>
+	<TextEquiv>
+	<Unicode>dreyfaches</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b9b1b1c23" language="German">
+	<Coords points="652,1412 754,1412 754,1453 652,1453"/>
+	<TextEquiv>
+	<Unicode>Alter</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Vielleicht war ihr dreyfaches Alter</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_13" primaryLanguage="German">
+	<Coords points="54,1489 753,1489 753,1538 54,1538"/>
+	<Baseline points="54,1531 753,1531"/>
+	<Word id="w_w1aab1b3b2b9b3ab1" language="German">
+	<Coords points="54,1489 115,1489 115,1527 54,1527"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b9b3b1b1" language="German">
+	<Coords points="140,1489 244,1489 244,1530 140,1530"/>
+	<TextEquiv>
+	<Unicode>Welt</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b9b3b1c13" language="German">
+	<Coords points="272,1492 344,1492 344,1525 272,1525"/>
+	<TextEquiv>
+	<Unicode>keine</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b9b3b1c25" language="German">
+	<Coords points="377,1493 405,1493 405,1534 377,1534"/>
+	<TextEquiv>
+	<Unicode>ſo</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b9b3b1c31" language="German">
+	<Coords points="438,1495 507,1495 507,1527 438,1527"/>
+	<TextEquiv>
+	<Unicode>leere</Unicode></TextEquiv></Word>
+	<Word id="word_1478540345098_650" language="German">
+	<Coords points="540,1495 649,1495 649,1538 540,1538"/>
+	<TextEquiv>
+	<Unicode>Grille;</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b3b2b9b3b1c59" language="German">
+	<Coords points="693,1499 753,1499 753,1529 693,1529"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>der Welt keine ſo leere Grille; und</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Vielleicht war ihr dreyfaches Alter
+der Welt keine ſo leere Grille; und</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_1474980975427_34" type="signature-mark">
+	<Coords points="493,1628 437,1628 437,1561 493,1561"/>
+	<TextLine id="line_1474980975458_36" primaryLanguage="German">
+	<Coords points="488,1621 449,1621 449,1572 488,1572"/>
+	<Baseline points="449,1615 485,1615"/>
+	<Word id="w_w1aab1b3b2b9b5ab1" language="German">
+	<Coords points="449,1577 474,1577 474,1616 449,1616"/>
+	<TextEquiv>
+	<Unicode>F</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>F</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>F</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_1474980975427_33" type="catch-word">
+	<Coords points="755,1635 684,1635 684,1566 755,1566"/>
+	<TextLine id="line_1474980975458_35" primaryLanguage="German">
+	<Coords points="751,1627 691,1627 691,1577 751,1577"/>
+	<Baseline points="691,1615 751,1615"/>
+	<Word id="word_1478540354752_652" language="German">
+	<Coords points="703,1587 751,1587 751,1627 703,1627"/>
+	<TextEquiv>
+	<Unicode>ge-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ge-</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>ge-</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r_3">
+	<Coords points="312,344 512,344 512,358 312,358"/></SeparatorRegion></Page></PcGts>
