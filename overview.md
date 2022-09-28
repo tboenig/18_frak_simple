@@ -132,5 +132,25 @@
          <th>Page</th>
       </tr>
    </thead>
-   <tbody/>
+   <tbody>
+      <tr>
+         <th>lessing_menschengeschlecht_1780_0084.xml</th>
+         <td>8</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>15</td>
+         <td>1</td>
+      </tr>
+   </tbody>
 </table>
