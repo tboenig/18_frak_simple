@@ -174,7 +174,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/18_frak_simple/releases/download/v10/bagitDump-v10.zip">Current version download: bagitDump-v10.zip</a>
+         <a href="https://github.com/tboenig/18_frak_simple/releases/tag/v1.1.1">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 12_v1.1.1</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/18_frak_simple/releases">Version archive</a>

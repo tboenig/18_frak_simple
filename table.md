@@ -240,7 +240,7 @@ font blackletter</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_simple/blob/main/data/lessing_menschengeschlecht_1780/GT-PAGE/lessing_menschengeschlecht_1780_0084.xml">lessing_menschengeschlecht_1780_0084.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_simple/blob/v1.1.1/data/lessing_menschengeschlecht_1780/GT-PAGE/lessing_menschengeschlecht_1780_0084.xml">lessing_menschengeschlecht_1780_0084.xml</a>
                            </td>
                            <td>15</td>
                            <td>1</td>
